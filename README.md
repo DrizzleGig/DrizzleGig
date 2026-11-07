@@ -1,6 +1,6 @@
 # 你好，我是 DrizzleGig（细雨歌）👋
 
-> 正在用 [DeepSeek Harness](https://github.com/deepseek-ai) 开发插件 —— 把日常里重复的那部分，交给 AI 去做。
+> 正在用 [DeepSeek Harness](https://github.com/deepseek-ai) 开发插件
 
 ---
 
