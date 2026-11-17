@@ -2,9 +2,9 @@
 
 DSH（[DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)）插件作者，正在做 **DSH-novel** 系列：一套给长篇小说用的 AI 写作工具。每个插件只管一件事：剧情怎么定、旧事怎么记、原著与本作怎么分、文风怎么学；默认关闭，不写正文，可以单装，也可以组合。
 
-我关心的不只是「AI 能不能写」，而是它能不能在几十万字里记住该记住的、尊重已经定下的设定、写出作者想要的风格，并在关键处让作者拍板。**AI 可以承担更多工作，但故事的方向、取舍与最终判断，应该始终掌握在作者手中。**
+「AI 能不能写」，并且它能不能在几十万字里记住该记住的、尊重已经定下的设定、写出作者想要的风格，并在关键处让作者拍板。**AI 可以承担更多工作，但故事的方向、取舍与最终判断，应该始终掌握在作者手中。**
 
-> Hi, I'm DrizzleGig, a DSH (DeepSeek Harness) plugin author building **DSH-novel** — a set of tools for long-form fiction with AI. Each plugin does one job: plot decisions, long-term memory, canon, or style. They're off by default and never write the prose themselves. I care less about whether AI can write and more about whether it can stay coherent across a very long story, respect what's already established, write in the voice the author wants, and let the author make the calls that matter. AI can do more of the work; the story should still belong to the person who imagines it.
+> Hi, I'm DrizzleGig, a DSH (DeepSeek Harness) plugin author building **DSH-novel** — a set of tools for long-form fiction with AI. Each plugin does one job: plot decisions, long-term memory, canon, or style. They're off by default and never write the prose themselves. About whether AI can write and more about whether it can stay coherent across a very long story, respect what's already established, write in the voice the author wants, and let the author make the calls that matter. AI can do more of the work; the story should still belong to the person who imagines it.
 
 ---
 
