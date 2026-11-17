@@ -21,10 +21,6 @@ DSH（[DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)）插�
 
 beat / fade / fanfic / voice 四个已经发布。接下来做 `conductor`——把一章的流程、上下文预算和执行证据排出来；五个稳定后，整合成 `dsh-novel-Pro`。
 
-## 其他工具
-
-另一个小工具 **env-probe**：在对话输入框下方实时显示会话 ID / 语言 / 时区 / 视口尺寸，并提供 `env_probe` 工具，让 AI 直接读到自己在什么环境里跑。
-
 ## 工具箱
 
 `Windows 11` · `Node.js 24` · `pnpm` · `git` · `VS Code` · `DeepSeek Harness`
