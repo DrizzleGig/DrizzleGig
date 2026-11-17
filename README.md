@@ -12,14 +12,14 @@ DSH（[DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)）插�
 
 | 插件 | 管什么 | 一句话 | 版本 / 状态 |
 |:--|:--|:--|:--|
-| 🧭 **拍板** · [beat](https://github.com/DrizzleGig/dsh-novel-beat) | 该发生什么 | 关键剧情不交给模型顺手决定：在影响走向的岔路停下来，给 2–4 个真不同的走向和代价，你选完写进全书账本。 | [![npm](https://img.shields.io/npm/v/dsh-novel-beat)](https://www.npmjs.com/package/dsh-novel-beat) |
-| 🌫️ **褪色** · [fade](https://github.com/DrizzleGig/dsh-novel-fade) | 还记得什么 | 近章重点记，旧事逐步淡。写完沉淀事件卡，写前只拿 1400 字简报，原文只存不用。 | [![npm](https://img.shields.io/npm/v/dsh-novel-fade)](https://www.npmjs.com/package/dsh-novel-fade) |
-| 📖 **同人** · [fanfic](https://github.com/DrizzleGig/dsh-novel-fanfic) | 原著与本作是什么 | 原著 canon 和本作设定分开记账；写前编成场景契约，写完只指出「在哪、凭什么、跟哪条冲突」。 | [![npm](https://img.shields.io/npm/v/dsh-novel-fanfic)](https://www.npmjs.com/package/dsh-novel-fanfic) |
-| 🖋️ **风格** · [voice](https://github.com/DrizzleGig/dsh-novel-voice) | 谁在说、怎么说 | 导入喜欢的作品，提炼四层风格档案；写前 600 字简报，写后把 AI 味定位到句子。 | [![npm](https://img.shields.io/npm/v/dsh-novel-voice)](https://www.npmjs.com/package/dsh-novel-voice) |
+| 🧭 **拍板** · [beat](https://github.com/DrizzleGig/dsh-novel-beat) | 剧情决策 | 故事由你决定。掌控剧情走向，让每个选择有迹可循。 | [![npm](https://img.shields.io/npm/v/dsh-novel-beat)](https://www.npmjs.com/package/dsh-novel-beat) |
+| 🌫️ **褪色** · [fade](https://github.com/DrizzleGig/dsh-novel-fade) | 长篇记忆 | 让 AI 像人一样记忆长篇故事，减少上下文消耗，不让记忆负担拖累创作。 | [![npm](https://img.shields.io/npm/v/dsh-novel-fade)](https://www.npmjs.com/package/dsh-novel-fade) |
+| 📖 **同人** · [fanfic](https://github.com/DrizzleGig/dsh-novel-fanfic) | 同人设定 | 原著有据可查，本作设定由你决定。允许有意识地二创，并检查设定冲突。 | [![npm](https://img.shields.io/npm/v/dsh-novel-fanfic)](https://www.npmjs.com/package/dsh-novel-fanfic) |
+| 🖋️ **风格** · [voice](https://github.com/DrizzleGig/dsh-novel-voice) | 写作风格 | 导入喜欢的作品和自己的创作，学习、融合并持续完善你喜欢的独特风格。 | [![npm](https://img.shields.io/npm/v/dsh-novel-voice)](https://www.npmjs.com/package/dsh-novel-voice) |
 
 ## 现在 / 下一步
 
-beat / fade / fanfic / voice 四个已经发布。接下来做 `conductor`——把一章的流程、上下文预算和执行证据排出来；五个稳定后，整合成 `dsh-novel-Pro`。
+beat / fade / fanfic / voice 四个已经发布，分别解决剧情决策、长篇记忆、同人设定与写作风格。下一步开发 `conductor`——让各个插件协同工作。由 conductor 连接各项能力，构建完整的 AI 长篇小说创作生态，整合 `dsh-novel-Pro`。
 
 ## 工具箱
 
@@ -27,6 +27,6 @@ beat / fade / fanfic / voice 四个已经发布。接下来做 `conductor`——
 
 ## 联系
 
-Issues 和 Discussions 都开着，欢迎来聊插件、聊长篇写作，或者聊聊你正在写的那本书。
+Issues 和 Discussions 都开着，欢迎反馈问题、提出建议，也欢迎交流 AI 写作、长篇小说创作与插件开发。
 
 Asia/Beijing · 中文 / English
